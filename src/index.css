@@ -1,0 +1,14 @@
+@import url("https://js.arcgis.com/next/esri/themes/light/main.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body,
+html,
+#root {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
